@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skoarkid
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on computer science
+- 📫 How to reach me: through the power of computer science
