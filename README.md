@@ -1,5 +1,46 @@
-- 👋 Hi, I’m @skoarkid
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on computer science
-- 📫 How to reach me: through the power of computer science
+It seemed as if we did not sleep
+One wink that night; I was sighing deep.
+The cruellest judge in the costliest court
+Could not condemn a night so short.
+We had the light out, but I know,
+Each time I turned, a radiant glow
+Suffused the room, and shining snow
+Alit from Heaven’s candle-fires
+Illuminated our desires.
+
+But the last time I held her, strong,
+Excited, closest, very long,
+Something started to go wrong.
+The edge of dawn’s despotic veil
+Showed at the eastern window-pale
+And there it was,—the morning light!
+Gwen was seized with a fearful fright,
+Became an apparition, cried,
+“Get up, go now with God, go hide!
+
+“Love is a salt, a gall, a rue,
+A vinegar-vintage. Dos y Ddw,
+Vaya con Dios, quickly, too!”
+“Ah, not yet, never yet, my love;
+The stars and moon still shine above.”
+“Then why do the raucous ravens talk
+With such a loud insistent squawk?”
+“Crows always cry like that, when fleas
+Nibble their ankles, nip their knees.”
+
+“And why do the dogs yip, yammer, yell?”
+“They think they’ve caught a fox’s smell.”
+“Poet, the wisdom of a fool
+Offers poor counsel as a rule.
+Open the door, open it wide
+As fast as you can, and leap outside.
+The dogs are fierce when they get untied.”
+“The woods are only a bound from here,
+And I can outjump a deer, my dear!”
+
+“But tell me, best beloved of men,
+Will you come again? Will you come again?”
+“Gwen, you know I’m your nightingale,
+And I’ll be with you, without fail,
+When the cloud is cloak, and the dark is sky,
+And when the night comes, so will I.”
