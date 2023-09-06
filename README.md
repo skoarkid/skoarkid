@@ -1,9 +1,8 @@
 Hi, I'm Neil
-
-I haven't been active with FOSS contributions but aim to do so starting today!
-Get in touch if you have any suggestions: [X DM](https://twitter.com/messages/compose?recipient_id=1699316745561895176"
-  class="twitter-dm-button) 
+<p>I haven't been active with FOSS contributions but aim to do so starting today!<br>
+Get in touch if you have any suggestions: <a href="https://twitter.com/messages/compose?recipient_id=1699316745561895176" class="twitter-dm-button"> X DM</a></p>
 
 Here's my stuff:
-[SICP Exercise Solutions](https://github.com/skoarkid/sicp-exercise-solutions)https://github.com/skoarkid/sicp-exercise-solutions
-[Project Euler Solutions](https://github.com/skoarkid/ProjectEuler)https://github.com/skoarkid/ProjectEuler
+<p><a href="https://github.com/skoarkid/sicp-exercise-solutions" target="_blank">SICP Exercise Solutions</a><br>
+<a href="https://github.com/skoarkid/ProjectEuler" target="_blank">Project Euler Solutions</a></p>
+
