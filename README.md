@@ -1,5 +1,5 @@
 Hi, I'm Neil
-<p>I haven't been active with FOSS contributions but aim to do so starting today!<br>
+<p>Not very active on here but I'm looking to make new stuff that's useful.<br>
 Get in touch if you have any suggestions: <a href="https://twitter.com/messages/compose?recipient_id=952126520759218177" class="twitter-dm-button"> X DM</a></p>
 
 Here's my stuff:
